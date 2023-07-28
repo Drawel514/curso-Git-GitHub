@@ -1,0 +1,98 @@
+commit c20612d131a78adf65529056fc8231477f3c5742
+Merge: f9e852d bbbc29e
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Fri Jul 28 09:13:20 2023 -0500
+
+    Resolviendo conflicto 1
+
+commit f9e852d0d10060d47ac774f8ddb29e131efa92ab
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Fri Jul 28 09:02:07 2023 -0500
+
+    Agrenago dos parrafos
+
+commit c43ba9f14c8f60a3332a68a8fa549a8fd131823e
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Fri Jul 28 08:39:36 2023 -0500
+
+    Agregando a los asesinos y su Rango
+
+commit bbbc29e70552b3f40886b8cf43733cf29e7d055e
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Fri Jul 28 08:39:36 2023 -0500
+
+    Agregando los nombres de los asesinos
+
+commit 471d396f1deac78fe42ac09bba902bb779e164a9
+Merge: 29cc42b f412c82
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 11:55:05 2023 -0500
+
+    resolviendo conflicto entre ramas
+
+commit f412c824eb69c0e3b6972499e787640692cd5303
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 11:47:37 2023 -0500
+
+    agragando index.js al index.html
+
+commit 29cc42b4ef6b15f53cb5bdcce92a4d3bdb86ca19
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 11:44:13 2023 -0500
+
+    Agregando la hoja de estilos al index.html
+
+commit 00bf692a555785a9c47765cf73a3c51f5643b72e
+Merge: 54b3949 f05665d
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 11:28:55 2023 -0500
+
+    Merge branch 'js'
+
+commit f05665db4b06fcbf5645483995ef3104fb1b2883
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 11:22:13 2023 -0500
+
+    Agregando archivo de index.js
+
+commit 54b3949bd3ab8be29c6f03e0e2ff78924cba60ac
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 11:16:48 2023 -0500
+
+    creando style.css
+
+commit de08ffee43cfaf79487002ad05746dffcfbbcf0e
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 11:12:03 2023 -0500
+
+    creando archivo index.html
+
+commit c3eab4d0421b31df31b1425f672d2651a9555a4d
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Sun Jul 23 10:56:10 2023 -0500
+
+    Commit para ignorar archivos ejecutables
+
+commit 367c33320fdacb35507c210f8745db4ca2f330c8
+Author: Drawel514 <124824257+Drawel514@users.noreply.github.com>
+Date:   Fri Jul 21 12:09:32 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 8bbb8942d5e56b97f43285d72d015479d3fcf130
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Fri Jul 21 17:01:14 2023 -0500
+
+    Agregando mas contenido al README
+
+commit d632a52bdd1996e7b2689988a6462000de787c58
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Fri Jul 21 15:07:49 2023 -0500
+
+    agregando contenido inicial 2 al README
+
+commit 9b1df34524ed32ed95533ce4701ac57bbaa08ec3
+Author: Daniel Rojas <darojas061@misena.edu.co>
+Date:   Fri Jul 21 15:05:53 2023 -0500
+
+    agregando contenido inicial al README
