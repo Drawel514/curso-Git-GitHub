@@ -1,0 +1,23 @@
+* 349ee1b Agregando el comando especial de commits de manera grafica
+*   c20612d Resolviendo conflicto 1
+|\  
+| * bbbc29e Agregando los nombres de los asesinos
+* | f9e852d Agrenago dos parrafos
+* | c43ba9f Agregando a los asesinos y su Rango
+|/  
+*   471d396 resolviendo conflicto entre ramas
+|\  
+| * f412c82 agragando index.js al index.html
+* | 29cc42b Agregando la hoja de estilos al index.html
+|/  
+*   00bf692 Merge branch 'js'
+|\  
+| * f05665d Agregando archivo de index.js
+* | 54b3949 creando style.css
+* | de08ffe creando archivo index.html
+|/  
+* c3eab4d Commit para ignorar archivos ejecutables
+* 367c333 Creando licencia del repositorio
+* 8bbb894 Agregando mas contenido al README
+* d632a52 agregando contenido inicial 2 al README
+* 9b1df34 agregando contenido inicial al README
