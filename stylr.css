@@ -1,4 +1,15 @@
 html {
   background-color: black;
-  color: aqua;
+  color: rgb(44, 255, 37);
+  font-family: sans-serif;
+  text-align: center;
+}
+a {
+  color: rgb(0, 255, 247);
+}
+a:hover {
+  color: rgb(0, 76, 255);
+}
+img {
+  max-width: 100%;
 }
